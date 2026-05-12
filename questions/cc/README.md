@@ -24,3 +24,8 @@ This folder contains one Markdown file per question. Each file includes the orig
 - [Question 26](q26.md)
 - [Question 27](q27.md)
 - [Question 28](q28.md)
+- [Question 30](q30.md)
+- [Question 31](q31.md)
+- [Question 32](q32.md)
+- [Question 34](q34.md)
+- [Question 35](q35.md)
