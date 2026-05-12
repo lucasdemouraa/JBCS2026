@@ -1,7 +1,7 @@
 # JBCS2026
 
 This repository contains supplementary materials for the study reported in the paper Evaluating the Accuracy and Stability of Frontier LLMs on ENADE Computer Science, Information Systems and Analysis and Systems Development Questions.
-
+## ENADE Computer Science exam
 The tables below provide an overview of the answers produced by the LLMs for the multiple-choice questions from the ENADE Computer Science exam. The questions were supplied to the LLMs as images.
 
 ## Performance of **ChatGPT o4-mini** over 10 rounds on the 25 image-based questions from the ENADE Computer Science exam  
@@ -132,7 +132,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | **Correct Answers** |  |  |  |  | 19 | 19 | 17 | 20 | 20 | 20 | 20 | 20 | 17 | 19 | **19,1** |
 | **Accuracy %** |  |  |  |  | 76,0% | 76,0% | 68,0% | 80,0% | 80,0% | 80,0% | 80,0% | 80,0% | 68,0% | 76,0% | **76,4%** |
 
-
+## Analysis and Systems Development exam
 The tables below provide an overview of the answers produced by the LLMs for the multiple-choice questions from the ENADE Analysis and Systems Development exam. The questions were supplied to the LLMs as images.
 
 ## Performance of **Deepseek - V3 R1** over 10 rounds on the 27 image-based questions from the ENADE Analysis and Systems Development exam  
@@ -274,6 +274,7 @@ The tables below provide an overview of the answers produced by the LLMs for the
 | **Correct Answers** |  |  |  |  | 24 | 23 | 22 | 20 | 26 | 23 | 21 | 23 | 23 | 22 | **22,7** |
 | **Accuracy %** |  |  |  |  | 88,9% | 85,2% | 81,5% | 74,1% | 96,3% | 85,2% | 77,8% | 85,2% | 85,2% | 81,5% | **84,1%** |
 
+## Information Systems exam
 The tables below provide an overview of the answers produced by the LLMs for the multiple-choice questions from the ENADE Information Systems exam. The questions were supplied to the LLMs as images.
 
 ## Performance of **Deepseek - V3 R1** over 10 rounds on the 26 image-based questions from the ENADE Information Systems exam
