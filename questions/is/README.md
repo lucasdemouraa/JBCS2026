@@ -1,4 +1,4 @@
-# ENADE 2021 Information Systems - Question Translations, Questions 09 to 28
+# ENADE 2021 Information Systems - Question Translations, Questions 09 to 35
 
 Each Markdown file includes the original question image at the top, followed by an English translation and the prompt to be used with the question.
 
