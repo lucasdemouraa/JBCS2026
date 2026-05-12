@@ -4,7 +4,6 @@ This folder contains one Markdown file per question. Each file includes the orig
 
 ## Files
 
-- [Question 03](q03.md)
 - [Question 09](q09.md)
 - [Question 10](q10.md)
 - [Question 11](q11.md)
